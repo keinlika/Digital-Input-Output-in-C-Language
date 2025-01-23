@@ -9,6 +9,7 @@
 
 ## Schematic
 <img width="508" alt="Screenshot 2025-01-23 at 1 08 41 AM" src="https://github.com/user-attachments/assets/9219a5b0-cccc-453e-81da-7916e6535867" />
+
 *Figure 1: A schematic showing the connections for the final circuit of the project.*
 
 ## Specifications
