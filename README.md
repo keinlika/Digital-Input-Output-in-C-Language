@@ -1,4 +1,4 @@
-# Home Security System Project
+# Digital Input & Output in 'C'
 
 ## Project Objectives
 - Learn how to program the digital I/O ports using the C programming language.
